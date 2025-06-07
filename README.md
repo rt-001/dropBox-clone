@@ -42,8 +42,8 @@ This guide helps you set up and run the project locally.
      REACT_APP_API_URL=http://localhost:8000/api
      ```
      - `REACT_APP_API_URL` — Base URL for all frontend API calls (points to your backend)
-3. **RESULT 
-   - **HOMEPAGE
+3. **RESULT** 
+   - **HOMEPAGE**
      <img width="1435" alt="Screenshot 2025-06-07 at 5 10 32 PM" src="https://github.com/user-attachments/assets/b3825b72-f144-4df4-9687-3e946e4c65f1" />
    - **VIEW FILE 
      <img width="1429" alt="Screenshot 2025-06-07 at 5 11 49 PM" src="https://github.com/user-attachments/assets/e923c82f-88db-408e-9698-4e8558087244" />
