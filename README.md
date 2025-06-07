@@ -45,9 +45,9 @@ This guide helps you set up and run the project locally.
 3. **RESULT** 
    - **HOMEPAGE**
      <img width="1435" alt="Screenshot 2025-06-07 at 5 10 32 PM" src="https://github.com/user-attachments/assets/b3825b72-f144-4df4-9687-3e946e4c65f1" />
-   - **VIEW FILE 
+   - **VIEW FILE** 
      <img width="1429" alt="Screenshot 2025-06-07 at 5 11 49 PM" src="https://github.com/user-attachments/assets/e923c82f-88db-408e-9698-4e8558087244" />
-   - **Unsupported File 
+   - **Unsupported File** 
       <img width="1275" alt="Screenshot 2025-06-07 at 5 12 34 PM" src="https://github.com/user-attachments/assets/4e01008a-7093-4af1-9cb1-b8ad71089c6e" />
 
      
